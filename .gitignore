@@ -1,0 +1,10 @@
+.env
+.idea/
+.venv/
+venv/
+__pycache__/
+.vscode/
+credentials.json
+token.json
+logs/
+refresh_token.txt
